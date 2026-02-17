@@ -1,0 +1,23 @@
+/* Customize the next arrow with smaller size */
+.swiper-button-next {
+    color: dodgerblue; /* Keep the arrow color */
+    right: 10px; /* Position the arrow */
+    background-color: rgba(255, 255, 255, 0.8); /* Background for better visibility */
+    padding: 5px; /* Smaller padding for smaller size */
+    border-radius: 50%; /* Circular shape */
+    width: 24px; /* Smaller width */
+    height: 24px; /* Smaller height */
+    font-size: 12px; /* Smaller arrow icon */
+}
+
+/* Customize the previous arrow with smaller size */
+.swiper-button-prev {
+    color: dodgerblue; /* Keep the arrow color */
+    left: 10px; /* Position the arrow */
+    background-color: rgba(255, 255, 255, 0.8); /* Background for better visibility */
+    padding: 5px; /* Smaller padding */
+    border-radius: 50%; /* Circular shape */
+    width: 24px; /* Smaller width */
+    height: 24px; /* Smaller height */
+    font-size: 12px; /* Smaller arrow icon */
+}
